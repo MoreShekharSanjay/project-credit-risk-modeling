@@ -1,1 +1,1 @@
-# project-credit-risk-modeling
+# Project: Credit Risk Modeling
